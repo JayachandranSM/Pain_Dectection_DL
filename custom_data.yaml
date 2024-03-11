@@ -1,0 +1,7 @@
+train:  E:/Pain_detection_yolov8/YOLOv8-Image-Segmentation/Dataset/the pain detection.v2i.yolov8/train/images
+val:    E:/Pain_detection_yolov8/YOLOv8-Image-Segmentation/Dataset/the pain detection.v2i.yolov8/valid/images
+test:   E:/Pain_detection_yolov8/YOLOv8-Image-Segmentation/Dataset/the pain detection.v2i.yolov8/test/images
+
+nc: 2
+names: ['Pain', 'No-pain']
+
